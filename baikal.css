@@ -1,0 +1,12 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#header {
+    height: 80px;
+    background: url("images/header.jpg") no-repeat;
+}
+.p{
+    text-align: justify;
+    margin: 5px;
+} 
