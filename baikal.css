@@ -5,8 +5,32 @@
 #header {
     height: 80px;
     background: url("images/header.jpg") no-repeat;
+    padding-left: 150px;
+    padding-top: 15px;
 }
 .p{
-    text-align: justify;
+    text-indent: 20px;
     margin: 5px;
+    margin-bottom: 5px;
+} 
+#pogoda{
+    width:  140px;
+    padding-left: 10px;
+    float:left;
+}
+#photo{
+    width: 220px;
+    padding-left: 10px;
+    float:right;
+}
+#content{
+    padding-left: 140px;
+    padding-right: 220px;
+}
+#footer{
+    background: #CCCCCC;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    clear: both;
 } 
